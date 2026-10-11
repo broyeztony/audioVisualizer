@@ -10,6 +10,8 @@ carrying none of its geometry.
 
 Built against openFrameworks 0.12.1.
 
+Continuing this work: see [AGENTS.md](AGENTS.md).
+
 ## Where this has to live
 
 The build resolves openFrameworks through a relative path (`../../..`), so the
