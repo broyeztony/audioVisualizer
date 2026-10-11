@@ -1,0 +1,14 @@
+# Build output
+obj/
+bin/audioVisualizer
+bin/audioVisualizer.app/
+bin/audioVisualizerDebug
+bin/audioVisualizerDebug.app/
+
+# macOS
+.DS_Store
+
+# Frames saved from the pre-rewrite camera-displacement renderer. They show
+# the room and the operator rather than the signal, so they are both personal
+# and no longer representative of what this draws.
+bin/data/frame-20261011-1839*.png
